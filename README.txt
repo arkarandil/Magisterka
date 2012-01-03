@@ -1,1 +1,1 @@
-Moja magisterk¹ z brancha bla
+Moja magist:(
