@@ -1,1 +1,1 @@
-Moja magisterk¹
+Moja magist:(
