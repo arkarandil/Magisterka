@@ -1,0 +1,36 @@
+﻿Build started 2012-01-09 23:27:40.
+     1>Project "H:\Dyplom\Git\src\CVAppEngine\InputHandlerTest\InputHandlerTest.vcxproj" on node 3 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "H:\Dyplom\Git\src\CVAppEngine\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\InputHandlerTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         O:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\..\opencv\build\include /I..\InputHandler /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\InputHandlerTest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         O:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I..\..\..\..\opencv\build\include /I..\InputHandler /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\InputHandlerTest.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt InputHandlerTest.cpp
+         InputHandlerTest.cpp
+     1>h:\dyplom\git\src\cvappengine\inputhandler\stdafx.h(17): warning C4005: 'MAX_PATH' : macro redefinition
+                 c:\program files (x86)\microsoft sdks\windows\v7.0a\include\windef.h(57) : see previous definition of 'MAX_PATH'
+     1>h:\dyplom\git\src\cvappengine\inputhandler\inputframe.h(38): warning C4018: '<' : signed/unsigned mismatch
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\InputHandlerTest.exe.embed.manifest.res" Debug\InputHandlerTest_manifest.rc 
+       Link:
+         O:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Dyplom\Git\src\CVAppEngine\Debug\InputHandlerTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\..\CVAppEngineOutput\Debug /LIBPATH:..\..\..\..\opencv\build\mybuild\lib\Debug opencv_highgui231d.lib opencv_ml231d.lib opencv_core231d.lib InputHandler.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\InputHandlerTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\Dyplom\Git\src\CVAppEngine\Debug\InputHandlerTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Dyplom\Git\src\CVAppEngine\Debug\InputHandlerTest.lib" /MACHINE:X86 Debug\InputHandlerTest.exe.embed.manifest.res
+         Debug\InputHandlerTest.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\InputHandlerTest.exe.embed.manifest" /manifest Debug\InputHandlerTest.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\InputHandlerTest.exe.embed.manifest.res" Debug\InputHandlerTest_manifest.rc 
+       LinkEmbedManifest:
+         O:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"H:\Dyplom\Git\src\CVAppEngine\Debug\InputHandlerTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:..\..\..\..\CVAppEngineOutput\Debug /LIBPATH:..\..\..\..\opencv\build\mybuild\lib\Debug opencv_highgui231d.lib opencv_ml231d.lib opencv_core231d.lib InputHandler.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\InputHandlerTest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"H:\Dyplom\Git\src\CVAppEngine\Debug\InputHandlerTest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"H:\Dyplom\Git\src\CVAppEngine\Debug\InputHandlerTest.lib" /MACHINE:X86 Debug\InputHandlerTest.exe.embed.manifest.res
+         Debug\InputHandlerTest.obj
+         Debug\stdafx.obj
+         InputHandlerTest.vcxproj -> H:\Dyplom\Git\src\CVAppEngine\Debug\InputHandlerTest.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\InputHandlerTest.unsuccessfulbuild".
+         Touching "Debug\InputHandlerTest.lastbuildstate".
+     1>Done Building Project "H:\Dyplom\Git\src\CVAppEngine\InputHandlerTest\InputHandlerTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.33

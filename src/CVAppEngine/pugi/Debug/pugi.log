@@ -1,0 +1,20 @@
+﻿Build started 2012-01-18 00:01:18.
+     1>Project "H:\Dyplom\Git\src\CVAppEngine\pugi\pugi.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "..\..\..\External\pugixml\bin\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\pugi.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Lib:
+         All outputs are up-to-date.
+         O:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"..\..\..\External\pugixml\bin\Debug\pugi.lib" /NOLOGO Debug\pugixml.obj
+         pugi.vcxproj -> H:\Dyplom\Git\src\CVAppEngine\pugi\..\..\..\External\pugixml\bin\Debug\pugi.lib
+       FinalizeBuildStatus:
+         Deleting file "Debug\pugi.unsuccessfulbuild".
+         Touching "Debug\pugi.lastbuildstate".
+     1>Done Building Project "H:\Dyplom\Git\src\CVAppEngine\pugi\pugi.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.09

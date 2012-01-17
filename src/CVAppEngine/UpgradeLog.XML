@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CVAppEngine">
+</Property><Property Name="Solution File" Value="H:\Dyplom\Git\src\CVAppEngine\CVAppEngine.sln">
+</Property><Property Name="Date" Value="7 stycznia 2012">
+</Property><Property Name="Time" Value="10:51:41">
+</Property></Properties><Event ErrorLevel="0" Project="InputHandler" Source="InputHandler\InputHandler.vcproj" Description="Converting project file 'H:\Dyplom\Git\src\CVAppEngine\InputHandler\InputHandler.vcproj'.">
+</Event><Event ErrorLevel="1" Project="InputHandler" Source="InputHandler\InputHandler.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="InputHandler" Source="InputHandler\InputHandler.vcproj" Description="Done converting to new project file 'H:\Dyplom\Git\src\CVAppEngine\InputHandler\InputHandler.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="InputHandler" Source="InputHandler\InputHandler.vcproj" Description="Converted">
+</Event></UpgradeLog>
